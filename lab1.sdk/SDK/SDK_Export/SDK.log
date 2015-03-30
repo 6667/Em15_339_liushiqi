@@ -1,0 +1,175 @@
+16:25:32.448 INFO  - Processing command line option -hwspec F:/embadded/lab1/lab1.sdk/SDK/SDK_Export/hw/system.xml. 
+16:58:10.289 INFO  - Processing command line option -hwspec F:/embadded/lab1/lab1.sdk/SDK/SDK_Export/hw/system.xml. 
+16:58:10.386 INFO  - The hardware specification for project 'hw_platform_0' is different from F:/embadded/lab1/lab1.sdk/SDK/SDK_Export/hw/system.xml. 
+16:58:10.475 INFO  - Copied contents of F:/embadded/lab1/lab1.sdk/SDK/SDK_Export/hw/system.xml into \hw_platform_0\system.xml. 
+16:58:10.578 INFO  - Copied contents of F:\embadded\lab1\lab1.sdk\SDK\SDK_Export\hw\ps7_init.c into \hw_platform_0\ps7_init.c. 
+16:58:10.580 INFO  - Copied contents of F:\embadded\lab1\lab1.sdk\SDK\SDK_Export\hw\ps7_init.h into \hw_platform_0\ps7_init.h. 
+16:58:10.597 INFO  - Copied contents of F:\embadded\lab1\lab1.sdk\SDK\SDK_Export\hw\ps7_init.html into \hw_platform_0\ps7_init.html. 
+16:58:10.598 INFO  - Copied contents of F:\embadded\lab1\lab1.sdk\SDK\SDK_Export\hw\ps7_summary.html into \hw_platform_0\ps7_summary.html. 
+16:58:10.600 INFO  - Copied contents of F:\embadded\lab1\lab1.sdk\SDK\SDK_Export\hw\ps7_init.tcl into \hw_platform_0\ps7_init.tcl. 
+16:58:10.712 INFO  - Synchronizing projects in the workspace with the hardware platform specification changes. 
+16:58:23.969 INFO  - Updating hardware inferred compiler options for mem_test. 
+16:58:23.977 INFO  - Clearing existing target manager status. 
+16:58:26.535 INFO  - Closing and re-opening the MSS file of ther project mem_test_bsp 
+16:58:27.989 INFO  - Workspace synchronized with the new hardware specification file. Cleaning dependent projects... 
+16:59:11.970 ERROR - Unexpected error while launching program. com.xilinx.sdk.targetmanager.TMException: 
+    Failed to Open JTAG Cable
+    Cable target is not connected to the host
+
+	at com.xilinx.sdk.targetmanager.internal.TM.connectToProcessor(Unknown Source)
+	at com.xilinx.sdk.debug.core.internal.AppRunner.run(Unknown Source)
+
+17:00:16.231 ERROR - Unexpected error while launching program. com.xilinx.sdk.targetmanager.TMException: 
+    Failed to Open JTAG Cable
+    Cable target is not connected to the host
+
+	at com.xilinx.sdk.targetmanager.internal.TM.connectToProcessor(Unknown Source)
+	at com.xilinx.sdk.debug.core.internal.AppRunner.run(Unknown Source)
+
+17:01:10.783 ERROR - Unexpected error while launching program. com.xilinx.sdk.targetmanager.TMException: 
+    Failed to Open JTAG Cable
+    Cable target is not connected to the host
+
+	at com.xilinx.sdk.targetmanager.internal.TM.connectToProcessor(Unknown Source)
+	at com.xilinx.sdk.debug.core.internal.AppRunner.run(Unknown Source)
+
+17:05:57.181 ERROR - Unexpected error while launching program. com.xilinx.sdk.targetmanager.TMException: 
+    Could not open plug-in of the type: <name>. Please check to make sure the correct plug-in for this type is properly installed.
+The following targetNames are available:
+  xilinx_svffile (libCseSvfFilePlugin)
+  xilinx_tcf (libCseTcfPlugin)
+  auto (libCseXilCommPlugin)
+  xilinx_parallel (libCseXilCommPlugin)
+  xilinx_platformusb (libCseXilCommPlugin)
+  xilinx_file (libCseXilCommPlugin)
+  xilinx_xvc (libCseXvcPlugin)
+
+    Failed to Open JTAG Cable
+    Unknown Error
+
+	at com.xilinx.sdk.targetmanager.internal.TM.connectToProcessor(Unknown Source)
+	at com.xilinx.sdk.debug.core.internal.AppRunner.run(Unknown Source)
+
+17:06:23.018 ERROR - Unexpected error while launching program. com.xilinx.sdk.targetmanager.TMException: 
+    Failed to Open JTAG Cable
+    Cable target is not connected to the host
+
+	at com.xilinx.sdk.targetmanager.internal.TM.connectToProcessor(Unknown Source)
+	at com.xilinx.sdk.debug.core.internal.AppRunner.run(Unknown Source)
+
+17:08:12.172 ERROR - Unexpected error while launching program. com.xilinx.sdk.targetmanager.TMException: 
+    Failed to Open JTAG Cable
+    Cable target is not connected to the host
+
+	at com.xilinx.sdk.targetmanager.internal.TM.connectToProcessor(Unknown Source)
+	at com.xilinx.sdk.debug.core.internal.AppRunner.run(Unknown Source)
+
+17:08:20.490 ERROR - Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near  
+17:12:52.962 INFO  - Processing command line option -hwspec F:/embadded/lab1/lab1.sdk/SDK/SDK_Export/hw/system.xml. 
+17:12:53.109 INFO  - The hardware specification for project 'hw_platform_0' is different from F:/embadded/lab1/lab1.sdk/SDK/SDK_Export/hw/system.xml. 
+17:12:53.125 INFO  - Copied contents of F:/embadded/lab1/lab1.sdk/SDK/SDK_Export/hw/system.xml into \hw_platform_0\system.xml. 
+17:12:53.259 INFO  - Copied contents of F:\embadded\lab1\lab1.sdk\SDK\SDK_Export\hw\ps7_init.c into \hw_platform_0\ps7_init.c. 
+17:12:53.261 INFO  - Copied contents of F:\embadded\lab1\lab1.sdk\SDK\SDK_Export\hw\ps7_init.h into \hw_platform_0\ps7_init.h. 
+17:12:53.278 INFO  - Copied contents of F:\embadded\lab1\lab1.sdk\SDK\SDK_Export\hw\ps7_init.html into \hw_platform_0\ps7_init.html. 
+17:12:53.280 INFO  - Copied contents of F:\embadded\lab1\lab1.sdk\SDK\SDK_Export\hw\ps7_summary.html into \hw_platform_0\ps7_summary.html. 
+17:12:53.282 INFO  - Copied contents of F:\embadded\lab1\lab1.sdk\SDK\SDK_Export\hw\ps7_init.tcl into \hw_platform_0\ps7_init.tcl. 
+17:12:53.388 INFO  - Synchronizing projects in the workspace with the hardware platform specification changes. 
+17:13:06.013 INFO  - Updating hardware inferred compiler options for mem_test. 
+17:13:06.292 INFO  - Clearing existing target manager status. 
+17:13:06.300 INFO  - Closing and re-opening the MSS file of ther project mem_test_bsp 
+17:13:07.954 INFO  - Workspace synchronized with the new hardware specification file. Cleaning dependent projects... 
+17:13:29.869 ERROR - Unexpected error while launching program. com.xilinx.sdk.targetmanager.TMException: 
+    Failed to Open JTAG Cable
+    Cable target is not connected to the host
+
+	at com.xilinx.sdk.targetmanager.internal.TM.connectToProcessor(Unknown Source)
+	at com.xilinx.sdk.debug.core.internal.AppRunner.run(Unknown Source)
+
+17:13:43.503 ERROR - Unexpected error while launching program. com.xilinx.sdk.targetmanager.TMException: 
+    Failed to Open JTAG Cable
+    Cable target is not connected to the host
+
+	at com.xilinx.sdk.targetmanager.internal.TM.connectToProcessor(Unknown Source)
+	at com.xilinx.sdk.debug.core.internal.AppRunner.run(Unknown Source)
+
+17:15:04.920 ERROR - Unexpected error while launching program. com.xilinx.sdk.targetmanager.TMException: 
+    Failed to Open JTAG Cable
+    Cable target is not connected to the host
+
+	at com.xilinx.sdk.targetmanager.internal.TM.connectToProcessor(Unknown Source)
+	at com.xilinx.sdk.debug.core.internal.AppRunner.run(Unknown Source)
+
+17:17:39.298 ERROR - Unexpected error while launching program. com.xilinx.sdk.targetmanager.TMException: 
+    Failed to Open JTAG Cable
+    Cable target is not connected to the host
+
+	at com.xilinx.sdk.targetmanager.internal.TM.connectToProcessor(Unknown Source)
+	at com.xilinx.sdk.debug.core.internal.AppRunner.run(Unknown Source)
+
+17:18:10.639 ERROR - Unexpected error while launching program. com.xilinx.sdk.targetmanager.TMException: 
+    Failed to Open JTAG Cable
+    Cable target is not connected to the host
+
+	at com.xilinx.sdk.targetmanager.internal.TM.connectToProcessor(Unknown Source)
+	at com.xilinx.sdk.debug.core.internal.AppRunner.run(Unknown Source)
+
+17:22:28.087 ERROR - Unexpected error while launching program. com.xilinx.sdk.targetmanager.TMException: 
+    Failed to Open JTAG Cable
+    Cable target is not connected to the host
+
+	at com.xilinx.sdk.targetmanager.internal.TM.connectToProcessor(Unknown Source)
+	at com.xilinx.sdk.debug.core.internal.AppRunner.run(Unknown Source)
+
+17:23:18.867 ERROR - Unexpected error while launching program. com.xilinx.sdk.targetmanager.TMException: 
+    Failed to Open JTAG Cable
+    Cable target is not connected to the host
+
+	at com.xilinx.sdk.targetmanager.internal.TM.connectToProcessor(Unknown Source)
+	at com.xilinx.sdk.debug.core.internal.AppRunner.run(Unknown Source)
+
+17:27:37.440 ERROR - Unexpected error while launching program. com.xilinx.sdk.targetmanager.TMException: 
+    Failed to Open JTAG Cable
+    Cable target is not connected to the host
+
+	at com.xilinx.sdk.targetmanager.internal.TM.connectToProcessor(Unknown Source)
+	at com.xilinx.sdk.debug.core.internal.AppRunner.run(Unknown Source)
+
+17:39:46.931 ERROR - Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near  
+17:54:32.463 INFO  - Processing command line option -hwspec F:/embadded/lab1/lab1.sdk/SDK/SDK_Export/hw/system.xml. 
+17:54:32.697 INFO  - The hardware specification for project 'hw_platform_0' is different from F:/embadded/lab1/lab1.sdk/SDK/SDK_Export/hw/system.xml. 
+17:54:33.056 INFO  - Copied contents of F:/embadded/lab1/lab1.sdk/SDK/SDK_Export/hw/system.xml into \hw_platform_0\system.xml. 
+17:54:33.368 INFO  - Copied contents of F:\embadded\lab1\lab1.sdk\SDK\SDK_Export\hw\ps7_init.c into \hw_platform_0\ps7_init.c. 
+17:54:33.384 INFO  - Copied contents of F:\embadded\lab1\lab1.sdk\SDK\SDK_Export\hw\ps7_init.h into \hw_platform_0\ps7_init.h. 
+17:54:33.399 INFO  - Copied contents of F:\embadded\lab1\lab1.sdk\SDK\SDK_Export\hw\ps7_init.html into \hw_platform_0\ps7_init.html. 
+17:54:33.399 INFO  - Copied contents of F:\embadded\lab1\lab1.sdk\SDK\SDK_Export\hw\ps7_summary.html into \hw_platform_0\ps7_summary.html. 
+17:54:33.399 INFO  - Copied contents of F:\embadded\lab1\lab1.sdk\SDK\SDK_Export\hw\ps7_init.tcl into \hw_platform_0\ps7_init.tcl. 
+17:54:33.571 INFO  - Synchronizing projects in the workspace with the hardware platform specification changes. 
+17:54:41.246 INFO  - Updating hardware inferred compiler options for mem_test. 
+17:54:41.246 INFO  - Clearing existing target manager status. 
+17:56:07.015 ERROR - Unexpected error while launching program. com.xilinx.sdk.targetmanager.TMException: 
+    Failed to Open JTAG Cable
+    Cable target is not connected to the host
+
+	at com.xilinx.sdk.targetmanager.internal.TM.connectToProcessor(Unknown Source)
+	at com.xilinx.sdk.debug.core.internal.AppRunner.run(Unknown Source)
+
+18:02:26.913 ERROR - Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near  
+18:07:32.994 INFO  - Processing command line option -hwspec F:/embadded/lab1/lab1.sdk/SDK/SDK_Export/hw/system.xml. 
+18:07:34.241 INFO  - The hardware specification for project 'hw_platform_0' is different from F:/embadded/lab1/lab1.sdk/SDK/SDK_Export/hw/system.xml. 
+18:07:34.254 INFO  - Copied contents of F:/embadded/lab1/lab1.sdk/SDK/SDK_Export/hw/system.xml into \hw_platform_0\system.xml. 
+18:07:34.319 INFO  - Copied contents of F:\embadded\lab1\lab1.sdk\SDK\SDK_Export\hw\ps7_init.c into \hw_platform_0\ps7_init.c. 
+18:07:34.321 INFO  - Copied contents of F:\embadded\lab1\lab1.sdk\SDK\SDK_Export\hw\ps7_init.h into \hw_platform_0\ps7_init.h. 
+18:07:34.339 INFO  - Copied contents of F:\embadded\lab1\lab1.sdk\SDK\SDK_Export\hw\ps7_init.html into \hw_platform_0\ps7_init.html. 
+18:07:34.339 INFO  - Copied contents of F:\embadded\lab1\lab1.sdk\SDK\SDK_Export\hw\ps7_summary.html into \hw_platform_0\ps7_summary.html. 
+18:07:34.341 INFO  - Copied contents of F:\embadded\lab1\lab1.sdk\SDK\SDK_Export\hw\ps7_init.tcl into \hw_platform_0\ps7_init.tcl. 
+18:07:34.444 INFO  - Synchronizing projects in the workspace with the hardware platform specification changes. 
+18:07:57.294 INFO  - Updating hardware inferred compiler options for mem_test. 
+18:07:57.344 INFO  - Clearing existing target manager status. 
+18:09:55.243 ERROR - Unexpected error while launching program. com.xilinx.sdk.targetmanager.TMException: 
+    Failed to Open JTAG Cable
+    Cable target is not connected to the host
+
+	at com.xilinx.sdk.targetmanager.internal.TM.connectToProcessor(Unknown Source)
+	at com.xilinx.sdk.debug.core.internal.AppRunner.run(Unknown Source)
+
+19:48:35.096 ERROR - Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near  
